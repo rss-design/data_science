@@ -18,7 +18,7 @@ Com base neste relato, disponibilizarei os objetos de meus estudos e pesquisa ne
 **Estudos focados em:** Python, Machine Learning e Deep Learn.
 
 **Links:**
-* [LinkedIn](https://https://www.linkedin.com/in/rssdesign)
+* [LinkedIn](https://www.linkedin.com/in/rssdesign)
 
 
 
