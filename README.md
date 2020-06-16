@@ -8,7 +8,7 @@
 </p>
 
 # Rafael Santos
-<sub>*Especialista em Tecnologia e Logística*</sub>
+<sub>*Especialista em Tecnologia aplicada a Logística*</sub>
 
 Após mais de 20 anos de experiência profissional, atuando em empresas do segmento de tecnologia da informação e logística, tive meu primeiro contato prático com o universo da ciência de dados, no ano de 2019. Desde então tenho me interessado cada vez mais, pelo estudo de práticas ligadas ao aperfeiçoamento da gestão dos dados, através de técnicas modernas de ETL (extração, transformação, carregamento), associados a poderosas ferramentas de Big Data, assim como, algoritmos de análises preditivas e estatísticas, que auxiliem na geração insights inerentes a regra de negócio das empresas, para tomadas de decisões mais precisas e assertivas.
 
