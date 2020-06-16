@@ -8,13 +8,14 @@
 </p>
 
 # Rafael Santos
-<sub>*Data Science Student *</sub>
+<sub>*Especialista em Tecnologia e Logística*</sub>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum fringilla sem vitae mi bibendum, ut pulvinar nibh gravida. Pellentesque dapibus pulvinar ligula, et placerat ante aliquet nec. Proin euismod laoreet felis quis semper. Phasellus commodo sem laoreet erat blandit, sit amet lacinia eros vestibulum. Donec posuere, tortor in lacinia vestibulum, odio enim pretium lorem, vitae ultrices lectus nibh ullamcorper sem. Maecenas id nunc neque. Pellentesque ac dapibus dui, et vehicula ex. Aenean efficitur, neque sed fermentum consectetur, mi mi consectetur urna, ac vestibulum dui felis nec nunc. Aenean bibendum fringilla dui et convallis. Phasellus eu justo magna. Nullam nulla lectus, efficitur vitae viverra eu, lacinia vitae lacus. Integer in sem eget metus laoreet ultrices. Aliquam suscipit, purus sit amet pretium commodo, felis nibh dignissim nisi, eu egestas nibh ante at sem. Sed euismod eget nisi vel semper. In vitae pretium dolor.
+Após mais de 20 anos de experiência profissional, atuando em empresas do segmento de tecnologia da informação e logística, tive meu primeiro contato prático com o universo da ciência de dados no ano de 2019. Desde então tenho me interessado cada vez mais pelo estudo de práticas ligadas ao aperfeiçoamento da gestão dos dados, através de técnicas modernas de ETL (extração, transformação, carregamento), associados a poderosas ferramentas de Big Data, assim como algoritmos de análise estatística e preditiva que auxiliem na geração insights inerentes a regra de negócio das empresas, para tomadas de decisões mais precisas e assertivas.
 
-Cras et mi massa. Donec condimentum lacinia ante vitae placerat. Aliquam vestibulum tellus sed ex vehicula, fringilla cursus leo volutpat. Mauris viverra, purus at euismod mattis, lorem risus lacinia nibh, ut tempus arcu nunc a urna. Quisque tincidunt nisi enim, quis pulvinar eros pellentesque at. Donec tristique facilisis neque ut venenatis. Aliquam laoreet, diam eget blandit laoreet, dui purus sodales massa, sed consequat ipsum ligula eget dolor. In hac habitasse platea dictumst. Proin cursus a dolor eu pulvinar. Sed consectetur est purus, at pulvinar libero pretium eu. Curabitur magna ante, volutpat eu lectus nec, fermentum tristique eros. Phasellus molestie suscipit eros, vel porta justo dapibus non. Vestibulum venenatis ornare commodo. Nulla sit amet neque at quam fringilla elementum vel faucibus lacus. Vestibulum et tincidunt arcu, sit amet posuere ipsum.
+Com base neste relato, compartilharei os objetos de meus estudos e pesquisa neste repositório, a fim de registrar passo a passo, minhas descobertas e evolução com relação ao universo do Data Science, compartilhando e apreendendo com demais estudantes que também estejam caminhando nesta jornada de aprendizados.
 
-**Background:** Python e Machine Learning
+
+**Estudos focados em:** Python, Machine Learning e Deep Learn.
 
 **Links:**
 * [LinkedIn](https://https://www.linkedin.com/in/rssdesign)
