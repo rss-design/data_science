@@ -23,7 +23,7 @@ Com base neste relato, disponibilizarei os objetos de meus estudos e pesquisa ne
 
 
 ## Projetos:
-Under development.
+* [Estudo de Caso 01: Analisando Dados do Airbnb](https://github.com/rss-design/data_science/blob/master/Estudo_de_Caso_01_Analisando_os_Dados_do_Airbnb.ipynb)
 
 
 
